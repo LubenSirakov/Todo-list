@@ -1,2 +1,2 @@
 # Todo-list
-A simple Todo list for tasks
+A HTML, CSS and Javascript Todo list for tasks
